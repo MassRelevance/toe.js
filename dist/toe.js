@@ -1,3 +1,5 @@
+define(['jquery'], function(jQuery) {
+
 (function($, window, undefined) {
 /**
  * Utility
@@ -537,3 +539,5 @@ function registerSpecialEvent(eventName) {
 
 }(gestures, state, calc));
 }(jQuery, window));
+
+});
