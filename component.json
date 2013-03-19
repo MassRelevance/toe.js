@@ -1,5 +1,5 @@
 {
-  "name": "toe.js",
+  "name": "toe",
   "version": "1.2.2",
   "main": "./dist/toe.js",
   "dependencies": {
