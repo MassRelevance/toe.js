@@ -1,0 +1,13 @@
+{
+  "name": "toe.js",
+  "version": "1.2.2",
+  "main": "./dist/toe.js",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "ignore": [
+    "build",
+    "demo",
+    "src"
+  ]
+}
